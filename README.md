@@ -1,5 +1,9 @@
 # PPT Control
 
+![OS](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Target-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+![Language](https://img.shields.io/badge/Language-AutoHotkey-green?logo=autohotkey&logoColor=white)
+
 ## 🚀 主要功能
 控制 PowerPoint 演示。使用鍵盤或簡報筆時，PowerPoint **不須取得焦點**（可在後台控制）。
 
