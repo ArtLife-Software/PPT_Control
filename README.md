@@ -23,11 +23,7 @@
 ---
 
 ## ⚠️ 注意事項
-為了確保 COM 元件運作正常，請根據您的 Office 版本選擇對應位元：
-* **PowerPoint x86 (32位元)**：須執行 `PPT Control x86.exe`
-* **PowerPoint x64 (64位元)**：須執行 `PPT Control x64.exe`
-
-> **提示**：如果您不確定版本，可以先嘗試 x64，若無法運作再更換為 x86。
+若 PowerPoint 以系統管理員身份開啟，請同樣以系統管理員身份執行 PPT Control。
 
 ---
 
